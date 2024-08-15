@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.banner{
+    text-align: center;
+    background-color: #d02c3c;
+    display: flex;
+    padding: 10px 30%;
+    
+    
+}
+.banner p{
+    color: white;
+    font-family: sans-serif;
+    
+    
+}
+.banner .verofertas{
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgba(38, 38, 153, 0.704);
+    color:rgba(38, 38, 153, 0.704) ;
+    font-weight: bold;
+    width: 90px;
+    
+    
+}
+header{
+    display: flex;
+    padding: 15px ;
+    background-color: #ffdd35;
+}
+.barrabusqueda input{
+    
+    padding-left: 10px;
+    width: 350px;
+    height: 28px;
+    
+    border-radius: 10px 0 0 10px;    
+    
+    
+}
+.lupa .busqueda{
+    border-radius: 0 10px 10px 0;
+    
+
+}
+nav ul li{
+    display: inline-flex;
+    
+    margin: 10px 50px;
+    
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+.carrito img{
+    margin-left: 50px;
+    
+    
+}
+.div3{
+    display: flex;
+    padding: 20px;
+}
+.div3 h3{
+    padding-left: 24px;
+    
+}
+.div3 .hotred{
+    color: #d02c3c;
+}
+.div3 .ubicatienda{
+    padding-left: 40%
+}
+.c1{
+    display: flex;
+    
+}
+.contenido1{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.contenido2{
+    display: flex;
+    margin-left: 40px;
+}
+.copsalud{
+    margin-left: 30px;
+    margin-top: 150px
+}
+.h3salud{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.psalud{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: gray;
+}
+
+.desservicios{
+    padding-top: 40px;
+    margin-left: 150px;
+
+}
+.c4{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 150px;
+}
+
+.farmaciadigital{
+    background-color: #fafbfc;
+    border: 1px solid gray;
+    border-radius: 10px;
+    
+}
+.saludybienestar{
+    background-color: #fafbfc;
+    border: 1px solid gray;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.linkcomprar{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+
